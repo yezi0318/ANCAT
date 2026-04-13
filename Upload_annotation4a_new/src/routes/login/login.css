@@ -1,0 +1,27 @@
+.bg {
+  height: 100vh;
+  background: linear-gradient(180deg, #a0d7e7, #6c5dd3);
+
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.login_card {
+  width: 520px;
+  height: 450px;
+  background: #fff;
+  border-radius: 20px;
+  margin: auto;
+  padding: 51px 60px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.action-content {
+  display: flex;
+  justify-content: flex-end;
+}
+
